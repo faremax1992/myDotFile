@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Color Highlighter",
+		"Emmet",
+		"Fix Mac Path",
+		"Git",
+		"GitGutter",
+		"jQuery",
+		"LESS",
+		"Less2Css",
+		"lessc",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"SASS Build",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeEnhancedUtilitiesSet",
+		"SublimeLinter",
+		"SublimeLinter-contrib-htmlhint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"Terminal",
+		"tern_for_sublime",
+		"YUI Compressor"
+	]
+}

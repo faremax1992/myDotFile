@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Color Highlighter",
+		"CSSLint",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"JSLint",
+		"LESS",
+		"Less2Css",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"SASS Build",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-htmlhint",
+		"SublimeLinter-jshint",
+		"Terminal",
+		"tern_for_sublime",
+		"YUI Compressor"
+	]
+}

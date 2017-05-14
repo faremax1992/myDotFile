@@ -1,0 +1,7 @@
+{
+  "parser": "github",
+  "enabled_parsers": ["markdown"],
+  "enable_autoreload": true,
+  "image_path_conversion": "base64",
+  "file_path_conversions": "relative"
+}

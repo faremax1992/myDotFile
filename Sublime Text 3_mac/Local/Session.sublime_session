@@ -1,0 +1,2045 @@
+{
+	"folder_history":
+	[
+		"/Users/faremax/Desktop/matlab",
+		"/Users/faremax/Desktop/EXE",
+		"/Users/faremax/Desktop/zepto",
+		"/Users/faremax/Downloads/app",
+		"/Users/faremax/website",
+		"/Users/faremax/Desktop/server/websites/tetris",
+		"/Users/faremax/Desktop/server",
+		"/Users/faremax/Desktop/grunt/yixiangren",
+		"/Users/faremax/Desktop/exercise",
+		"/Users/faremax/Desktop/HBuilder",
+		"/Users/faremax/Downloads/麦子商城",
+		"/Users/faremax/Desktop/exerise",
+		"/Users/faremax/Desktop/exerise/tmall/img",
+		"/Users/faremax/Downloads/jqueryBanner 2"
+	],
+	"last_version": 3126,
+	"last_window_id": 193,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 568.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Re",
+						"ReferenceError\tfn "
+					],
+					[
+						"obj",
+						"object"
+					],
+					[
+						"prop",
+						"propKey"
+					],
+					[
+						"enum",
+						"enumerate"
+					],
+					[
+						"dele",
+						"deleteProperty"
+					],
+					[
+						"ta",
+						"target"
+					],
+					[
+						"getO",
+						"getOwnPropertyNames"
+					],
+					[
+						"def",
+						"defineProperty"
+					],
+					[
+						"get",
+						"getPrototypeOf"
+					],
+					[
+						"getOwn",
+						"getOwnPropertySymbols"
+					],
+					[
+						"getOwnProper",
+						"getOwnPropertyNames"
+					],
+					[
+						"Ob",
+						"Object"
+					],
+					[
+						"de",
+						"defineProperty"
+					],
+					[
+						"sour",
+						"source1"
+					],
+					[
+						"sou",
+						"source0"
+					],
+					[
+						"Obj",
+						"Object"
+					],
+					[
+						"O",
+						"Object"
+					],
+					[
+						"is",
+						"isObject"
+					],
+					[
+						"pro",
+						"protorype"
+					],
+					[
+						"find",
+						"findIndex"
+					],
+					[
+						"view",
+						"viewu8〔variable〕"
+					],
+					[
+						"Uint8",
+						"Uint8Array"
+					],
+					[
+						"L",
+						"LITTLE_ENDIAN"
+					],
+					[
+						"Big",
+						"BIG_ENDIAN"
+					],
+					[
+						"Type",
+						"TypedArray"
+					],
+					[
+						"it",
+						"iterator_a"
+					],
+					[
+						"const",
+						"constructor"
+					],
+					[
+						"co",
+						"codePointAt\tfn "
+					],
+					[
+						"js",
+						"javascript"
+					],
+					[
+						"upp",
+						"upperBound〔variable〕"
+					],
+					[
+						"temp",
+						"tempStack〔variable〕"
+					],
+					[
+						"sor",
+						"sorted_array"
+					],
+					[
+						"right",
+						"rightDepth"
+					],
+					[
+						"left",
+						"leftDepth"
+					],
+					[
+						"style",
+						"style标签"
+					],
+					[
+						"coll",
+						"collapsed"
+					],
+					[
+						"nav-",
+						"navbar-collapse"
+					],
+					[
+						"lo",
+						"localStorage"
+					],
+					[
+						"has",
+						"hasOwnProperty"
+					],
+					[
+						"set",
+						"setURIParams"
+					],
+					[
+						"se",
+						"setRequestHeader〔function〕"
+					],
+					[
+						"XML",
+						"XMLHttpRequest"
+					],
+					[
+						"i",
+						"inline-block"
+					],
+					[
+						"text",
+						"textarea\tTag"
+					],
+					[
+						"crea",
+						"createElement〔function〕"
+					],
+					[
+						"r",
+						"responseText〔variable〕"
+					],
+					[
+						"s",
+						"readyState〔variable〕"
+					],
+					[
+						"remove",
+						"removeClass"
+					],
+					[
+						"our",
+						"outerHeight\t.outerHeight()"
+					],
+					[
+						"offset",
+						"offsetHeight"
+					],
+					[
+						"screen",
+						"screenHeight"
+					],
+					[
+						"scroll",
+						"scrollTop\t.scrollTop()"
+					],
+					[
+						"whi",
+						"white-space"
+					],
+					[
+						"no",
+						"nowrap"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"pars",
+						"parseInt〔function〕"
+					],
+					[
+						"data-r",
+						"data-rel"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"data-",
+						"data-role=〔attribute〕"
+					],
+					[
+						"range",
+						"range_b"
+					],
+					[
+						"backg",
+						"background-color"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"flex",
+						"flex-grow"
+					],
+					[
+						"flex-",
+						"flex-direction"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"p",
+						"pop〔function〕"
+					],
+					[
+						"ali",
+						"align-content"
+					],
+					[
+						"cle",
+						"clearInterval〔function〕"
+					],
+					[
+						"b",
+						"balance"
+					],
+					[
+						"fle",
+						"flex-start"
+					],
+					[
+						"border-c",
+						"border-collapse"
+					],
+					[
+						"stop",
+						"stopPropagation"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"fonts",
+						"font-size"
+					],
+					[
+						"sele",
+						"selected_detail"
+					],
+					[
+						"var",
+						"vertical-align"
+					],
+					[
+						"order",
+						"order_list"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"scro",
+						"scrollTop\t.scrollTop()"
+					],
+					[
+						"margin-",
+						"margin-right"
+					],
+					[
+						"ch",
+						"children\t.children()"
+					],
+					[
+						"first",
+						"first_list"
+					],
+					[
+						"ma",
+						"margin-bottom"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"g",
+						"getElementbyId"
+					],
+					[
+						"last",
+						"last-of-type"
+					],
+					[
+						"backc",
+						"background-color"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"po",
+						"position"
+					],
+					[
+						"z-",
+						"z-index"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"pb",
+						"padding-bottom"
+					],
+					[
+						"cont",
+						"container"
+					],
+					[
+						"con",
+						"container"
+					],
+					[
+						"fons",
+						"font-size"
+					],
+					[
+						"bor",
+						"border-top"
+					],
+					[
+						"box-s",
+						"box-shadow"
+					],
+					[
+						"space",
+						"space-between"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"background",
+						"background-color"
+					],
+					[
+						"backgro",
+						"background-color"
+					],
+					[
+						"backl",
+						"background-color"
+					],
+					[
+						"count",
+						"counter-reset"
+					],
+					[
+						"counter",
+						"counter-increment"
+					],
+					[
+						"inner",
+						"innerHTML"
+					],
+					[
+						"Event",
+						"EventName"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 187.0,
+				"last_filter": "mpp",
+				"selected_items":
+				[
+					[
+						"mpp",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mpo",
+						"Markdown Preview: Open Markdown Cheat sheet"
+					],
+					[
+						"markdown p",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markdown setting",
+						"Preferences: MarkdownEditing Settings – User"
+					],
+					[
+						"setting",
+						"Preferences: Settings"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"pcr",
+						"Package Control: Remove Package"
+					],
+					[
+						"settinng",
+						"Preferences: Settings – Syntax Specific"
+					],
+					[
+						"pcu",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pclist",
+						"Package Control: List Packages"
+					],
+					[
+						"ps",
+						"Preferences: Settings"
+					],
+					[
+						"ptsu",
+						"Preferences: Terminal Settings – User"
+					],
+					[
+						"git status",
+						"Plugin Development: Convert Syntax to .sublime-syntax"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"t",
+						"Terminal: Open"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 593.0
+			},
+			"console":
+			{
+				"height": 167.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/faremax/Desktop/abc.txt",
+				"/Users/faremax/Desktop/EXE/blog/Javascript对象(3) - 再谈对象",
+				"/Users/faremax/Desktop/EXE/blog/面向 web 前端及 node 开发人员的 vim 配置.md",
+				"/Users/faremax/Desktop/EXE/blog/算法练习(4)--基础功能实现.md",
+				"/Users/faremax/Desktop/EXE/blog/ECMAScript6 展望篇.md",
+				"/Users/faremax/Desktop/EXE/blog/ECMAScript6 提高篇.md",
+				"/Users/faremax/Desktop/EXE/blog/设计模式.md",
+				"/Users/faremax/Desktop/EXE/blog/ECMAScript6 基础篇.md",
+				"/Users/faremax/Desktop/EXE/blog/ECMAScript6 进阶篇.md",
+				"/Users/faremax/Desktop/EXE/index.html",
+				"/Users/faremax/Desktop/EXE/blog/算法练习(4)--基础功能实现",
+				"/Users/faremax/Desktop/EXE/blog/基于 babel 的 ECMAScript6 环境搭建.md",
+				"/Users/faremax/Desktop/EXE/blog/es6.html",
+				"/Users/faremax/Desktop/EXE/blog/vim.md",
+				"/Volumes/FAREMAX/20170504_time2/起始条件 浸泡23min干燥3min",
+				"/Users/faremax/Desktop/EXE/library/ycViewover.js",
+				"/Users/faremax/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+				"/Users/faremax/Desktop/lianxi.html",
+				"/Users/faremax/Desktop/q.html",
+				"/Users/faremax/Desktop/EXE/blog/性能优化.md",
+				"/Users/faremax/Desktop/EXE/手机功能测试.html",
+				"/Users/faremax/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+				"/Users/faremax/Desktop/EXE/blog/常用浏览器事件解析.md",
+				"/Users/faremax/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+				"/Users/faremax/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+				"/Users/faremax/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/faremax/Library/Application Support/Sublime Text 3/Packages/User/MultiMarkdown.sublime-settings",
+				"/Users/faremax/Desktop/EXE/blog/常见meta和link标签.md",
+				"/Users/faremax/Desktop/EXE/index.css",
+				"/Users/faremax/Desktop/EXE/js/niukewang.js",
+				"/Users/faremax/Desktop/EXE/js/autotransform.js",
+				"/Users/faremax/Desktop/EXE/xuexi.html",
+				"/Users/faremax/Desktop/aaa.html",
+				"/Users/faremax/Desktop/js.js",
+				"/Users/faremax/Desktop/EXE/blog/binaryTree.cpp",
+				"/Users/faremax/Desktop/EXE/blog/兼容性问题.md",
+				"/Users/faremax/Desktop/EXE/blog/css.md",
+				"/Users/faremax/Desktop/EXE/blog/算法练习.md",
+				"/Users/faremax/Desktop/EXE/bootstrap/back.html",
+				"/Users/faremax/Desktop/untitled.html",
+				"/Users/faremax/Desktop/EXE/jm 相册/js/jquery-1.4.3.min.js",
+				"/Users/faremax/Desktop/EXE/bootstrap/a.html",
+				"/Users/faremax/Desktop/EXE/blog/web 本地存储.md",
+				"/Users/faremax/Desktop/EXE/js/jquery-3.1.1.min.js",
+				"/Users/faremax/Desktop/EXE/blog/ajax.md",
+				"/Users/faremax/Desktop/EXE/犀牛书/06.01.inherit.js",
+				"/Users/faremax/Desktop/EXE/bootstrap/index.html",
+				"/Users/faremax/website/search.php",
+				"/Users/faremax/website/Ajax.md",
+				"/Users/faremax/website/web 本地存储.md",
+				"/Users/faremax/Desktop/EXE/blog/一个简单的图片懒加载.md",
+				"/Users/faremax/Desktop/EXE/我的jquery常见功能库.js",
+				"/Users/faremax/Desktop/EXE/blog/代码段.md",
+				"/Users/faremax/Desktop/server/websites/tmall/index.html",
+				"/Users/faremax/Desktop/server/websites/tmall/js/index.js",
+				"/Users/faremax/Desktop/server/css/index.css",
+				"/Users/faremax/Desktop/server/websites/tmall/css/index.css",
+				"/Users/faremax/Desktop/server/websites/tmall/detail.html",
+				"/Users/faremax/Desktop/server/websites/tmall/js/detail.js",
+				"/Users/faremax/Desktop/server/websites/aliyun/css/style.css",
+				"/Users/faremax/Desktop/server/websites/aliyun/js/index.js",
+				"/Users/faremax/Desktop/server/websites/aliyun/css/header.css",
+				"/Users/faremax/Desktop/server/websites/aliyun/css/bg.svg",
+				"/Users/faremax/Desktop/server/websites/aliyun/bg.svg",
+				"/Users/faremax/Desktop/niukewang.js",
+				"/Users/faremax/Desktop/EXE/面试准备.md",
+				"/Users/faremax/Desktop/EXE/LESS/index.html",
+				"/Users/faremax/Desktop/EXE/LESS/css/index.less",
+				"/Users/faremax/Desktop/server/index.html",
+				"/Users/faremax/Desktop/grunt/yixiangren/css/normalize.css",
+				"/Users/faremax/Desktop/grunt/yixiangren/css/bootstrap.min.css",
+				"/Users/faremax/Desktop/grunt/yixiangren/index.html",
+				"/Users/faremax/Desktop/grunt/Gruntfile.js",
+				"/Users/faremax/Desktop/grunt/package.json",
+				"/Users/faremax/Desktop/grunt/yixiangren/js/index.js",
+				"/Users/faremax/Desktop/EXE/LESS/css/index.css",
+				"/Users/faremax/Downloads/一乡人/css/footer.css",
+				"/Users/faremax/Desktop/EXE/LESS",
+				"/Users/faremax/Desktop/exercise/aliyun/index.html",
+				"/Users/faremax/Desktop/exercise/aliyun/css/style.css",
+				"/Users/faremax/Desktop/exercise/aliyun/js/index.js",
+				"/Users/faremax/Desktop/exercise/css/index.css",
+				"/Users/faremax/Desktop/exercise/baidu/css/index.css",
+				"/Users/faremax/Desktop/exercise/baidu/baidu.html",
+				"/Users/faremax/Desktop/exercise/js/index.js",
+				"/Users/faremax/Desktop/exercise/index.html",
+				"/Users/faremax/website/about.html",
+				"/Users/faremax/website/dialog.html",
+				"/Users/faremax/website/test.html",
+				"/Users/faremax/website/index.html",
+				"/Users/faremax/Desktop/HBuilder/jquery mobile/dialog.html",
+				"/Users/faremax/Desktop/HBuilder/jquery mobile/about.html",
+				"/Users/faremax/Desktop/HBuilder/jquery mobile/index.html",
+				"/Users/faremax/Desktop/HBuilder/jquery mobile/dialog",
+				"/Users/faremax/Desktop/HBuilder/jquery mobile/css/jquery.mobile-1.4.5.css",
+				"/Users/faremax/Desktop/HBuilder/jquery mobile/js/jquery.mobile-1.4.5.min.js",
+				"/Users/faremax/Desktop/HBuilder/js/jquery.mobile-1.4.5/demos/backbone-requirejs/index.html",
+				"/Users/faremax/Desktop/HBuilder/面试准备.md",
+				"/Users/faremax/Desktop/HBuilder/blog/javascript严格模式特点.md",
+				"/Users/faremax/Desktop/HBuilder/index.html",
+				"/Users/faremax/Desktop/HBuilder/index.css",
+				"/Users/faremax/Desktop/HBuilder/blog/内存管理与垃圾回收.md",
+				"/Users/faremax/Desktop/HBuilder/mac.html",
+				"/Users/faremax/Desktop/HBuilder/犀牛书/17.07.forceToUpperCase.js",
+				"/Users/faremax/Desktop/HBuilder/犀牛书/17.06.InputFilter.js",
+				"/Users/faremax/Desktop/HBuilder/Event.js",
+				"/Users/faremax/Desktop/HBuilder/犀牛书/17.08.Keymap.js",
+				"/Users/faremax/Desktop/HBuilder/dice.html",
+				"/Users/faremax/Desktop/HBuilder/emmet.html",
+				"/Users/faremax/Desktop/HBuilder/event.html",
+				"/Users/faremax/Desktop/HBuilder/css覆盖窗口.html",
+				"/Users/faremax/Desktop/HBuilder/犀牛书/18.01.postMessage.js",
+				"/Users/faremax/Desktop/HBuilder/formlist.html",
+				"/Users/faremax/Desktop/HBuilder/test.html",
+				"/Users/faremax/Desktop/HBuilder/myQuery.js",
+				"/Users/faremax/Desktop/HBuilder/blog/jQuery结构简析.md",
+				"/Users/faremax/Desktop/HBuilder/js/jquery-1.4.3.min.js",
+				"/Users/faremax/Desktop/HBuilder/导航/guide.html",
+				"/Users/faremax/Desktop/HBuilder/导航/guide.css",
+				"/Users/faremax/Desktop/HBuilder/article.css",
+				"/Users/faremax/Desktop/HBuilder/guide.css",
+				"/Users/faremax/Desktop/HBuilder/guide.html",
+				"/Users/faremax/Desktop/HBuilder/blog/Ajax.md",
+				"/Users/faremax/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/Users/faremax/Desktop/exercise/baidu/js/index.js",
+				"/Users/faremax/Desktop/HBuilder/class/Readme.md",
+				"/Users/faremax/Downloads/麦子商城/html/product-message.html",
+				"/Users/faremax/Desktop/exerise/aliyun/js/index.js"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 99.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"遍历",
+					":",
+					");\n",
+					"展开运算符",
+					"es7",
+					"不",
+					"无法",
+					"没有",
+					"不能",
+					"babel",
+					"支持",
+					"实现",
+					"proxy",
+					" unicode",
+					"空",
+					"为空",
+					"--",
+					"es([6,5]{1})",
+					",",
+					", ",
+					"，",
+					",",
+					", ",
+					",  ",
+					"，",
+					"正则",
+					"多行",
+					"数组推导",
+					"prototype",
+					"提高",
+					"library",
+					"includes",
+					"便利",
+					"Unicode",
+					"UTF",
+					"item",
+					"item8",
+					"pro",
+					"();\n",
+					"arr",
+					"Set",
+					"6",
+					"}",
+					" ([\\-a-zA-Z0-9]*)$",
+					"\\s*$",
+					" ",
+					"- ([a-zA-Z0-9]* ?)*",
+					"herf",
+					"^(([\\w]*\\s?)+)(http(s)?://[.\\-/\\w]*)$",
+					"<h2></h2>",
+					"^[\\w ]*$",
+					"：",
+					"^(.* *)(http(s)?://[/.\\-\\w]*)$",
+					"8",
+					"[\\r\\n]",
+					"^R\\d+C\\d+[\\r\\n]",
+					"，",
+					"；",
+					">",
+					"ajax",
+					"DNS",
+					"print",
+					",",
+					"top",
+					"，",
+					"；",
+					"$.Event",
+					"data-parent=\"#accordion\"",
+					" col-lg-3",
+					"View details ",
+					"^//",
+					"top_search",
+					"(<img.*src=)(['\"])([^'\">]*)\\2",
+					"(<img.*src=)(['\"])([^'\">]*)\\1",
+					"score",
+					"slogan",
+					"blue.jpg",
+					"bg.svg",
+					"video",
+					"ser_hov",
+					"ban_rect",
+					"banner",
+					"dt",
+					"about.html",
+					"about",
+					"表单",
+					"@media",
+					"\\.content",
+					"\\.",
+					"\\.content",
+					"data-role=",
+					">\n",
+					"isNumeric",
+					":|,",
+					"}",
+					"{|;",
+					"page-nav",
+					"hotword-area",
+					"}",
+					",|:",
+					"{|;",
+					"close",
+					"upload",
+					"solve",
+					"style",
+					"solve",
+					"\\bser_hov",
+					" class=\"ser_flex\"",
+					"on",
+					"\\bon\\b",
+					"clicked",
+					"gif",
+					"banner",
+					"ba'ne'r",
+					"choices",
+					":hover",
+					"ll ",
+					"^ll ",
+					"ll ",
+					"detail",
+					".f_big_bottom",
+					"sub",
+					"gray_bar",
+					"float",
+					"solve",
+					"back",
+					"hack",
+					"header"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"",
+					"扩展运算符",
+					"ES$1",
+					", ",
+					",",
+					", ",
+					",",
+					", ",
+					",",
+					"遍历",
+					"utf",
+					"Myset",
+					"*$1",
+					" ",
+					"",
+					"href",
+					"<a herf=\"$3\" target=\"_blank\">$1</a>",
+					"",
+					"<h2>$0</h2>",
+					":",
+					"<a href=\"$2\" target=\"_blank\">$1</a>",
+					"<a href=\"$2\">$1</a>",
+					"\", \"",
+					", ",
+					"",
+					",",
+					";",
+					" ",
+					"console.log",
+					"console.log();",
+					" ",
+					"big",
+					",",
+					";",
+					"",
+					"$0»",
+					"### ",
+					"$1\"img/pic_error.jpg\" class=\"img-delay\" data-src=\"$3\"",
+					"dd",
+					"a.html",
+					"图文",
+					"$0 ",
+					"\\n}\\n",
+					"$0\\n",
+					"\\n$0\\n",
+					"$0 ",
+					"$0\\n",
+					"flag:hover",
+					"",
+					"#main_header $0",
+					"<h3>$1</h3>",
+					"intro",
+					"#",
+					" ",
+					"  ",
+					" = ",
+					"  ",
+					"{",
+					">",
+					"#slide",
+					":",
+					"",
+					"line",
+					"###",
+					", ",
+					"",
+					" |",
+					", ",
+					"    ",
+					"",
+					")",
+					"(",
+					"- - ",
+					"- ",
+					"^",
+					"`$0` |  |",
+					"`$0`"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 124.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"test",
+						"test.html"
+					],
+					[
+						"20",
+						"犀牛书/20.04.appcacheevents.js"
+					],
+					[
+						"",
+						"Ctrl+P：搜索项目中的文件"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 264.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 947.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Re",
+						"ReferenceError\tfn "
+					],
+					[
+						"obj",
+						"object"
+					],
+					[
+						"prop",
+						"propKey"
+					],
+					[
+						"enum",
+						"enumerate"
+					],
+					[
+						"dele",
+						"deleteProperty"
+					],
+					[
+						"ta",
+						"target"
+					],
+					[
+						"getO",
+						"getOwnPropertyNames"
+					],
+					[
+						"def",
+						"defineProperty"
+					],
+					[
+						"get",
+						"getPrototypeOf"
+					],
+					[
+						"getOwn",
+						"getOwnPropertySymbols"
+					],
+					[
+						"getOwnProper",
+						"getOwnPropertyNames"
+					],
+					[
+						"Ob",
+						"Object"
+					],
+					[
+						"de",
+						"defineProperty"
+					],
+					[
+						"sour",
+						"source1"
+					],
+					[
+						"sou",
+						"source0"
+					],
+					[
+						"Obj",
+						"Object"
+					],
+					[
+						"O",
+						"Object"
+					],
+					[
+						"is",
+						"isObject"
+					],
+					[
+						"pro",
+						"protorype"
+					],
+					[
+						"find",
+						"findIndex"
+					],
+					[
+						"view",
+						"viewu8〔variable〕"
+					],
+					[
+						"Uint8",
+						"Uint8Array"
+					],
+					[
+						"L",
+						"LITTLE_ENDIAN"
+					],
+					[
+						"Big",
+						"BIG_ENDIAN"
+					],
+					[
+						"Type",
+						"TypedArray"
+					],
+					[
+						"it",
+						"iterator_a"
+					],
+					[
+						"const",
+						"constructor"
+					],
+					[
+						"co",
+						"codePointAt\tfn "
+					],
+					[
+						"js",
+						"javascript"
+					],
+					[
+						"upp",
+						"upperBound〔variable〕"
+					],
+					[
+						"temp",
+						"tempStack〔variable〕"
+					],
+					[
+						"sor",
+						"sorted_array"
+					],
+					[
+						"right",
+						"rightDepth"
+					],
+					[
+						"left",
+						"leftDepth"
+					],
+					[
+						"style",
+						"style标签"
+					],
+					[
+						"coll",
+						"collapsed"
+					],
+					[
+						"nav-",
+						"navbar-collapse"
+					],
+					[
+						"lo",
+						"localStorage"
+					],
+					[
+						"has",
+						"hasOwnProperty"
+					],
+					[
+						"set",
+						"setURIParams"
+					],
+					[
+						"se",
+						"setRequestHeader〔function〕"
+					],
+					[
+						"XML",
+						"XMLHttpRequest"
+					],
+					[
+						"i",
+						"inline-block"
+					],
+					[
+						"text",
+						"textarea\tTag"
+					],
+					[
+						"crea",
+						"createElement〔function〕"
+					],
+					[
+						"r",
+						"responseText〔variable〕"
+					],
+					[
+						"s",
+						"readyState〔variable〕"
+					],
+					[
+						"remove",
+						"removeClass"
+					],
+					[
+						"our",
+						"outerHeight\t.outerHeight()"
+					],
+					[
+						"offset",
+						"offsetHeight"
+					],
+					[
+						"screen",
+						"screenHeight"
+					],
+					[
+						"scroll",
+						"scrollTop\t.scrollTop()"
+					],
+					[
+						"whi",
+						"white-space"
+					],
+					[
+						"no",
+						"nowrap"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"pars",
+						"parseInt〔function〕"
+					],
+					[
+						"data-r",
+						"data-rel"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"data-",
+						"data-role=〔attribute〕"
+					],
+					[
+						"range",
+						"range_b"
+					],
+					[
+						"backg",
+						"background-color"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"flex",
+						"flex-grow"
+					],
+					[
+						"flex-",
+						"flex-direction"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"p",
+						"pop〔function〕"
+					],
+					[
+						"ali",
+						"align-content"
+					],
+					[
+						"cle",
+						"clearInterval〔function〕"
+					],
+					[
+						"b",
+						"balance"
+					],
+					[
+						"fle",
+						"flex-start"
+					],
+					[
+						"border-c",
+						"border-collapse"
+					],
+					[
+						"stop",
+						"stopPropagation"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"fonts",
+						"font-size"
+					],
+					[
+						"sele",
+						"selected_detail"
+					],
+					[
+						"var",
+						"vertical-align"
+					],
+					[
+						"order",
+						"order_list"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"scro",
+						"scrollTop\t.scrollTop()"
+					],
+					[
+						"margin-",
+						"margin-right"
+					],
+					[
+						"ch",
+						"children\t.children()"
+					],
+					[
+						"first",
+						"first_list"
+					],
+					[
+						"ma",
+						"margin-bottom"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"g",
+						"getElementbyId"
+					],
+					[
+						"last",
+						"last-of-type"
+					],
+					[
+						"backc",
+						"background-color"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"po",
+						"position"
+					],
+					[
+						"z-",
+						"z-index"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"pb",
+						"padding-bottom"
+					],
+					[
+						"cont",
+						"container"
+					],
+					[
+						"con",
+						"container"
+					],
+					[
+						"fons",
+						"font-size"
+					],
+					[
+						"bor",
+						"border-top"
+					],
+					[
+						"box-s",
+						"box-shadow"
+					],
+					[
+						"space",
+						"space-between"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"background",
+						"background-color"
+					],
+					[
+						"backgro",
+						"background-color"
+					],
+					[
+						"backl",
+						"background-color"
+					],
+					[
+						"count",
+						"counter-reset"
+					],
+					[
+						"counter",
+						"counter-increment"
+					],
+					[
+						"inner",
+						"innerHTML"
+					],
+					[
+						"Event",
+						"EventName"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 187.0,
+				"last_filter": "mpp",
+				"selected_items":
+				[
+					[
+						"mpp",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mpo",
+						"Markdown Preview: Open Markdown Cheat sheet"
+					],
+					[
+						"markdown p",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markdown setting",
+						"Preferences: MarkdownEditing Settings – User"
+					],
+					[
+						"setting",
+						"Preferences: Settings"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"pcr",
+						"Package Control: Remove Package"
+					],
+					[
+						"settinng",
+						"Preferences: Settings – Syntax Specific"
+					],
+					[
+						"pcu",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pclist",
+						"Package Control: List Packages"
+					],
+					[
+						"ps",
+						"Preferences: Settings"
+					],
+					[
+						"ptsu",
+						"Preferences: Terminal Settings – User"
+					],
+					[
+						"git status",
+						"Plugin Development: Convert Syntax to .sublime-syntax"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"t",
+						"Terminal: Open"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 593.0
+			},
+			"console":
+			{
+				"height": 167.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/faremax/Desktop/abc.txt",
+				"/Users/faremax/Desktop/EXE/blog/Javascript对象(3) - 再谈对象",
+				"/Users/faremax/Desktop/EXE/blog/面向 web 前端及 node 开发人员的 vim 配置.md",
+				"/Users/faremax/Desktop/EXE/blog/算法练习(4)--基础功能实现.md",
+				"/Users/faremax/Desktop/EXE/blog/ECMAScript6 展望篇.md",
+				"/Users/faremax/Desktop/EXE/blog/ECMAScript6 提高篇.md",
+				"/Users/faremax/Desktop/EXE/blog/设计模式.md",
+				"/Users/faremax/Desktop/EXE/blog/ECMAScript6 基础篇.md",
+				"/Users/faremax/Desktop/EXE/blog/ECMAScript6 进阶篇.md",
+				"/Users/faremax/Desktop/EXE/index.html",
+				"/Users/faremax/Desktop/EXE/blog/算法练习(4)--基础功能实现",
+				"/Users/faremax/Desktop/EXE/blog/基于 babel 的 ECMAScript6 环境搭建.md",
+				"/Users/faremax/Desktop/EXE/blog/es6.html",
+				"/Users/faremax/Desktop/EXE/blog/vim.md",
+				"/Volumes/FAREMAX/20170504_time2/起始条件 浸泡23min干燥3min",
+				"/Users/faremax/Desktop/EXE/library/ycViewover.js",
+				"/Users/faremax/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+				"/Users/faremax/Desktop/lianxi.html",
+				"/Users/faremax/Desktop/q.html",
+				"/Users/faremax/Desktop/EXE/blog/性能优化.md",
+				"/Users/faremax/Desktop/EXE/手机功能测试.html",
+				"/Users/faremax/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+				"/Users/faremax/Desktop/EXE/blog/常用浏览器事件解析.md",
+				"/Users/faremax/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+				"/Users/faremax/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+				"/Users/faremax/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/faremax/Library/Application Support/Sublime Text 3/Packages/User/MultiMarkdown.sublime-settings",
+				"/Users/faremax/Desktop/EXE/blog/常见meta和link标签.md",
+				"/Users/faremax/Desktop/EXE/index.css",
+				"/Users/faremax/Desktop/EXE/js/niukewang.js",
+				"/Users/faremax/Desktop/EXE/js/autotransform.js",
+				"/Users/faremax/Desktop/EXE/xuexi.html",
+				"/Users/faremax/Desktop/aaa.html",
+				"/Users/faremax/Desktop/js.js",
+				"/Users/faremax/Desktop/EXE/blog/binaryTree.cpp",
+				"/Users/faremax/Desktop/EXE/blog/兼容性问题.md",
+				"/Users/faremax/Desktop/EXE/blog/css.md",
+				"/Users/faremax/Desktop/EXE/blog/算法练习.md",
+				"/Users/faremax/Desktop/EXE/bootstrap/back.html",
+				"/Users/faremax/Desktop/untitled.html",
+				"/Users/faremax/Desktop/EXE/jm 相册/js/jquery-1.4.3.min.js",
+				"/Users/faremax/Desktop/EXE/bootstrap/a.html",
+				"/Users/faremax/Desktop/EXE/blog/web 本地存储.md",
+				"/Users/faremax/Desktop/EXE/js/jquery-3.1.1.min.js",
+				"/Users/faremax/Desktop/EXE/blog/ajax.md",
+				"/Users/faremax/Desktop/EXE/犀牛书/06.01.inherit.js",
+				"/Users/faremax/Desktop/EXE/bootstrap/index.html",
+				"/Users/faremax/website/search.php",
+				"/Users/faremax/website/Ajax.md",
+				"/Users/faremax/website/web 本地存储.md",
+				"/Users/faremax/Desktop/EXE/blog/一个简单的图片懒加载.md",
+				"/Users/faremax/Desktop/EXE/我的jquery常见功能库.js",
+				"/Users/faremax/Desktop/EXE/blog/代码段.md",
+				"/Users/faremax/Desktop/server/websites/tmall/index.html",
+				"/Users/faremax/Desktop/server/websites/tmall/js/index.js",
+				"/Users/faremax/Desktop/server/css/index.css",
+				"/Users/faremax/Desktop/server/websites/tmall/css/index.css",
+				"/Users/faremax/Desktop/server/websites/tmall/detail.html",
+				"/Users/faremax/Desktop/server/websites/tmall/js/detail.js",
+				"/Users/faremax/Desktop/server/websites/aliyun/css/style.css",
+				"/Users/faremax/Desktop/server/websites/aliyun/js/index.js",
+				"/Users/faremax/Desktop/server/websites/aliyun/css/header.css",
+				"/Users/faremax/Desktop/server/websites/aliyun/css/bg.svg",
+				"/Users/faremax/Desktop/server/websites/aliyun/bg.svg",
+				"/Users/faremax/Desktop/niukewang.js",
+				"/Users/faremax/Desktop/EXE/面试准备.md",
+				"/Users/faremax/Desktop/EXE/LESS/index.html",
+				"/Users/faremax/Desktop/EXE/LESS/css/index.less",
+				"/Users/faremax/Desktop/server/index.html",
+				"/Users/faremax/Desktop/grunt/yixiangren/css/normalize.css",
+				"/Users/faremax/Desktop/grunt/yixiangren/css/bootstrap.min.css",
+				"/Users/faremax/Desktop/grunt/yixiangren/index.html",
+				"/Users/faremax/Desktop/grunt/Gruntfile.js",
+				"/Users/faremax/Desktop/grunt/package.json",
+				"/Users/faremax/Desktop/grunt/yixiangren/js/index.js",
+				"/Users/faremax/Desktop/EXE/LESS/css/index.css",
+				"/Users/faremax/Downloads/一乡人/css/footer.css",
+				"/Users/faremax/Desktop/EXE/LESS",
+				"/Users/faremax/Desktop/exercise/aliyun/index.html",
+				"/Users/faremax/Desktop/exercise/aliyun/css/style.css",
+				"/Users/faremax/Desktop/exercise/aliyun/js/index.js",
+				"/Users/faremax/Desktop/exercise/css/index.css",
+				"/Users/faremax/Desktop/exercise/baidu/css/index.css",
+				"/Users/faremax/Desktop/exercise/baidu/baidu.html",
+				"/Users/faremax/Desktop/exercise/js/index.js",
+				"/Users/faremax/Desktop/exercise/index.html",
+				"/Users/faremax/website/about.html",
+				"/Users/faremax/website/dialog.html",
+				"/Users/faremax/website/test.html",
+				"/Users/faremax/website/index.html",
+				"/Users/faremax/Desktop/HBuilder/jquery mobile/dialog.html",
+				"/Users/faremax/Desktop/HBuilder/jquery mobile/about.html",
+				"/Users/faremax/Desktop/HBuilder/jquery mobile/index.html",
+				"/Users/faremax/Desktop/HBuilder/jquery mobile/dialog",
+				"/Users/faremax/Desktop/HBuilder/jquery mobile/css/jquery.mobile-1.4.5.css",
+				"/Users/faremax/Desktop/HBuilder/jquery mobile/js/jquery.mobile-1.4.5.min.js",
+				"/Users/faremax/Desktop/HBuilder/js/jquery.mobile-1.4.5/demos/backbone-requirejs/index.html",
+				"/Users/faremax/Desktop/HBuilder/面试准备.md",
+				"/Users/faremax/Desktop/HBuilder/blog/javascript严格模式特点.md",
+				"/Users/faremax/Desktop/HBuilder/index.html",
+				"/Users/faremax/Desktop/HBuilder/index.css",
+				"/Users/faremax/Desktop/HBuilder/blog/内存管理与垃圾回收.md",
+				"/Users/faremax/Desktop/HBuilder/mac.html",
+				"/Users/faremax/Desktop/HBuilder/犀牛书/17.07.forceToUpperCase.js",
+				"/Users/faremax/Desktop/HBuilder/犀牛书/17.06.InputFilter.js",
+				"/Users/faremax/Desktop/HBuilder/Event.js",
+				"/Users/faremax/Desktop/HBuilder/犀牛书/17.08.Keymap.js",
+				"/Users/faremax/Desktop/HBuilder/dice.html",
+				"/Users/faremax/Desktop/HBuilder/emmet.html",
+				"/Users/faremax/Desktop/HBuilder/event.html",
+				"/Users/faremax/Desktop/HBuilder/css覆盖窗口.html",
+				"/Users/faremax/Desktop/HBuilder/犀牛书/18.01.postMessage.js",
+				"/Users/faremax/Desktop/HBuilder/formlist.html",
+				"/Users/faremax/Desktop/HBuilder/test.html",
+				"/Users/faremax/Desktop/HBuilder/myQuery.js",
+				"/Users/faremax/Desktop/HBuilder/blog/jQuery结构简析.md",
+				"/Users/faremax/Desktop/HBuilder/js/jquery-1.4.3.min.js",
+				"/Users/faremax/Desktop/HBuilder/导航/guide.html",
+				"/Users/faremax/Desktop/HBuilder/导航/guide.css",
+				"/Users/faremax/Desktop/HBuilder/article.css",
+				"/Users/faremax/Desktop/HBuilder/guide.css",
+				"/Users/faremax/Desktop/HBuilder/guide.html",
+				"/Users/faremax/Desktop/HBuilder/blog/Ajax.md",
+				"/Users/faremax/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/Users/faremax/Desktop/exercise/baidu/js/index.js",
+				"/Users/faremax/Desktop/HBuilder/class/Readme.md",
+				"/Users/faremax/Downloads/麦子商城/html/product-message.html",
+				"/Users/faremax/Desktop/exerise/aliyun/js/index.js"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 99.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"遍历",
+					":",
+					");\n",
+					"展开运算符",
+					"es7",
+					"不",
+					"无法",
+					"没有",
+					"不能",
+					"babel",
+					"支持",
+					"实现",
+					"proxy",
+					" unicode",
+					"空",
+					"为空",
+					"--",
+					"es([6,5]{1})",
+					",",
+					", ",
+					"，",
+					",",
+					", ",
+					",  ",
+					"，",
+					"正则",
+					"多行",
+					"数组推导",
+					"prototype",
+					"提高",
+					"library",
+					"includes",
+					"便利",
+					"Unicode",
+					"UTF",
+					"item",
+					"item8",
+					"pro",
+					"();\n",
+					"arr",
+					"Set",
+					"6",
+					"}",
+					" ([\\-a-zA-Z0-9]*)$",
+					"\\s*$",
+					" ",
+					"- ([a-zA-Z0-9]* ?)*",
+					"herf",
+					"^(([\\w]*\\s?)+)(http(s)?://[.\\-/\\w]*)$",
+					"<h2></h2>",
+					"^[\\w ]*$",
+					"：",
+					"^(.* *)(http(s)?://[/.\\-\\w]*)$",
+					"8",
+					"[\\r\\n]",
+					"^R\\d+C\\d+[\\r\\n]",
+					"，",
+					"；",
+					">",
+					"ajax",
+					"DNS",
+					"print",
+					",",
+					"top",
+					"，",
+					"；",
+					"$.Event",
+					"data-parent=\"#accordion\"",
+					" col-lg-3",
+					"View details ",
+					"^//",
+					"top_search",
+					"(<img.*src=)(['\"])([^'\">]*)\\2",
+					"(<img.*src=)(['\"])([^'\">]*)\\1",
+					"score",
+					"slogan",
+					"blue.jpg",
+					"bg.svg",
+					"video",
+					"ser_hov",
+					"ban_rect",
+					"banner",
+					"dt",
+					"about.html",
+					"about",
+					"表单",
+					"@media",
+					"\\.content",
+					"\\.",
+					"\\.content",
+					"data-role=",
+					">\n",
+					"isNumeric",
+					":|,",
+					"}",
+					"{|;",
+					"page-nav",
+					"hotword-area",
+					"}",
+					",|:",
+					"{|;",
+					"close",
+					"upload",
+					"solve",
+					"style",
+					"solve",
+					"\\bser_hov",
+					" class=\"ser_flex\"",
+					"on",
+					"\\bon\\b",
+					"clicked",
+					"gif",
+					"banner",
+					"ba'ne'r",
+					"choices",
+					":hover",
+					"ll ",
+					"^ll ",
+					"ll ",
+					"detail",
+					".f_big_bottom",
+					"sub",
+					"gray_bar",
+					"float",
+					"solve",
+					"back",
+					"hack",
+					"header"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"",
+					"扩展运算符",
+					"ES$1",
+					", ",
+					",",
+					", ",
+					",",
+					", ",
+					",",
+					"遍历",
+					"utf",
+					"Myset",
+					"*$1",
+					" ",
+					"",
+					"href",
+					"<a herf=\"$3\" target=\"_blank\">$1</a>",
+					"",
+					"<h2>$0</h2>",
+					":",
+					"<a href=\"$2\" target=\"_blank\">$1</a>",
+					"<a href=\"$2\">$1</a>",
+					"\", \"",
+					", ",
+					"",
+					",",
+					";",
+					" ",
+					"console.log",
+					"console.log();",
+					" ",
+					"big",
+					",",
+					";",
+					"",
+					"$0»",
+					"### ",
+					"$1\"img/pic_error.jpg\" class=\"img-delay\" data-src=\"$3\"",
+					"dd",
+					"a.html",
+					"图文",
+					"$0 ",
+					"\\n}\\n",
+					"$0\\n",
+					"\\n$0\\n",
+					"$0 ",
+					"$0\\n",
+					"flag:hover",
+					"",
+					"#main_header $0",
+					"<h3>$1</h3>",
+					"intro",
+					"#",
+					" ",
+					"  ",
+					" = ",
+					"  ",
+					"{",
+					">",
+					"#slide",
+					":",
+					"",
+					"line",
+					"###",
+					", ",
+					"",
+					" |",
+					", ",
+					"    ",
+					"",
+					")",
+					"(",
+					"- - ",
+					"- ",
+					"^",
+					"`$0` |  |",
+					"`$0`"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 124.0
+			},
+			"pinned_build_system": "",
+			"position": "0 166 102 947 590 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"test",
+						"test.html"
+					],
+					[
+						"20",
+						"犀牛书/20.04.appcacheevents.js"
+					],
+					[
+						"",
+						"Ctrl+P：搜索项目中的文件"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 264.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 193,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
