@@ -5,7 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"Codecs33",
 		"Color Highlighter",
+		"ConvertToUTF8",
 		"Emmet",
 		"Fix Mac Path",
 		"Git",
@@ -16,6 +18,7 @@
 		"lessc",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"MarkdownTOC",
 		"Package Control",
 		"SASS Build",
 		"SideBarEnhancements",
