@@ -3,6 +3,31 @@
 	"color_scheme": "Packages/User/SublimeLinter/MarkdownEditor-Dark (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"expand_tabs_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"*~.*",
+		"._*"
+	],
 	"folder_exclude_patterns":
 	[
 		".svn",
