@@ -132,6 +132,28 @@ function! s:auto_less_compile() " {{{
 endfunction " }}}
 autocmd BufWritePost *.less call s:auto_less_compile()
 
+" vim-markdown
+let g:vim_markdown_folding_disabled = 1
+let g:vim_markdown_override_foldtext = 0
+let g:vim_markdown_toc_autofit = 1
+let g:vim_markdown_no_default_key_mappings = 1
+let g:vim_markdown_emphasis_multiline = 0
+let g:vim_markdown_conceal = 0
+let g:tex_conceal = ""
+let g:vim_markdown_math = 1
+let g:vim_markdown_fenced_languages = ['javascript=js']
+let g:vim_markdown_new_list_item_indent = 2
+let g:vim_markdown_autowrite = 1
+set nofoldenable
+
+" vim-instant-markdown 
+let g:instant_markdown_slow = 1
+let g:instant_markdown_autostart = 0
+let g:instant_markdown_allow_external_content = 0
+
+" vim-markdown-toc
+let g:vmt_auto_update_on_save = 0
+
 " Strip trailing whitespace (,ss)
 function! StripWhitespace()
 	let save_cursor = getpos(".")
