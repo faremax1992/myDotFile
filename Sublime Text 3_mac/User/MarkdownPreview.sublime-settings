@@ -1,0 +1,13 @@
+{
+  "parser": "github",
+  "enabled_parsers": ["github"],
+  "image_path_conversion": "relative",
+  "file_path_conversions": "relative",
+  "enable_mathjax": true,
+  "build_action": "browser",
+  "enable_uml": true,
+  "github_mode": "markdown",
+  "github_inject_header_ids": true,
+  "enable_autoreload": false
+}
+
