@@ -1,0 +1,11 @@
+{
+  "respect_editorconfig_files": false,
+
+  // Use current syntax to determine file type, instead of the extension.
+  "use_editor_syntax": false,
+  // Use current identation settings to override the ones from `.jsbeautifyrc`.
+  "use_editor_indentation": false,
+
+  // Log the settings passed to the prettifier from `.jsbeautifyrc`.
+  "print_diagnostics": true
+}

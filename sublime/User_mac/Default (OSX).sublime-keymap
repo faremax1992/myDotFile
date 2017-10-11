@@ -33,5 +33,9 @@
       "application": "/Applications/QQBrowser.app",
       "extensions":".*"
     }
-  }
+  },
+    { "keys": ["ctrl+="], "command": "calculate", "args": {"replace": false} },
+    { "keys": ["ctrl+shift+="], "command": "calculate", "args": {"replace": true} },
+    { "keys": ["ctrl+shift+alt+1"], "command": "calculate_count" },
+    { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" }
 ]

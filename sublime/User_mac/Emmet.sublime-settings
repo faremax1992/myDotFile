@@ -1,7 +1,18 @@
 {
-    "snippets": {
-        "variables": {
-            "lang": "zh-CN"
-        }
+  "snippets": {
+      "variables": {
+          "lang": "zh-CN"
+      }
+  },
+  "syntaxProfiles": {
+    "html": "xhtml",
+    "xml": {
+      "tage_case": "upper",
+      "attr_quotes": "single"
     }
+  },
+  "preferences": {
+    //"css.valueSeparator": ": ",
+    //"css.propertyEnd": ";"
+  }
 }
